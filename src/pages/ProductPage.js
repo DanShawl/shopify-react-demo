@@ -45,7 +45,7 @@ const ProductPage = () => {
           src={product.images[0].src}
           w={'100%'}
           objectFit={'cover'}
-          maxH="600px"
+          maxH="500px"
         />
         <Box
           p={['1.5rem', '1.5rem', '0 2rem']}
